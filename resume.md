@@ -85,7 +85,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 * Developed and maintained dashboards (written in Java) to monitor and remediate WebLogic & Tomcat JVMs
 * Reduced mean time to repair e-commerce sites by implementing Application Performance Management (APM) tools starting with HP Diagnostics and upgrading to AppDynamics
 * Introduced first A/B deployments to the e-commerce sites
-* Implemented Akamai CDN for caching and DNS load balancing to relieve pressure from internal web servers
+* Implemented Akamai CDN for caching and geographic load balancing to relieve pressure from internal web servers
 * Partially responsible for the news-making 2013 DIRECTV.com NFL Sunday Ticket outage, the ensuing effort to stabilize the systems resulted in a 10x performance improvement and 99.99% uptime
 
 ### Senior Infrastructure Engineer | DIRECTV, LLC | September 2008 – April 2012
