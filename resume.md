@@ -1,16 +1,15 @@
 ## Summary
 
-I am a cloud engineering consultant with experience leading the delivery of a wide range of cloud automation solutions for clients spanning from small engineering shops to the most valuable companies in the world. I really enjoy most of the work that goes into delivering a successful project. I also take pride in my work and thrive on creating automation systems that are well engineered, reusable and elegant. Having the privilege to be a part of many high performing engineering organizations has taught me to be humble and to adapt to any team dynamic. My mission is to elevate any team that I'm a part of and to bring value to an organization through technology, collaboration, and a mind set of continuous learning and improving.
+I am a cloud engineering consultant with experience leading the delivery of a wide range of cloud automation solutions for clients spanning from small engineering shops to the most valuable companies in the world. I take pride in my work and thrive on creating automation systems that are well engineered, reusable and elegant. Having the privilege to be a part of many high performing engineering organizations has taught me to be humble and to adapt to any team dynamic. My mission is to elevate any team that I am a part of and to bring value to an organization through technology, collaboration, and a mindset of continuous learning and improving.
 
 ## Skills/Keywords
 
 * Linux/Windows | Docker/Kubernetes/AWS ECS/AWS EKS | OpenShift/Rancher
-* VMware/AWS EC2/OpenStack | General networking/VPN/Firewall management | AWS ELB/HAProxy/F5
 * Puppet/Chef/Ansible/AWS CloudFormation | Bash scripting/PowerShell/Windows batch scripting | IIS/Apache/Nginx
-* Weblogic/Tomcat/JBoss  | HP Server Automation/Operations Orchestration (OO)| AppDynamics/HP Diagnostics
 * Splunk/AWS CloudWatch | Jenkins/CircleCI/AWS CodeDeploy/Octopus Deploy | Atlassian Confluence, BitBucket, Jira
+* VMware/AWS EC2/OpenStack | General networking/VPN/Firewall management | AWS ELB/HAProxy/F5
+* Python/Java/JavaScript/Ruby/Perl | Weblogic/Tomcat/JBoss  | AppDynamics/HP Diagnostics
 * Vim/Git | LDAP |  TCP/IP/HTTPS/SSL
-* Languages I've used professionally in the past: Python/Java/JavaScript/Ruby/Perl
 
 ## Experience
 
