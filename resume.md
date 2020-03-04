@@ -48,7 +48,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### CIS assessment and automation | Fortune 100 insurance company
 
-* Led a team of 4 engineers delivering the automation phase of a larger security project
+* Led a team of engineers delivering the automation phase of a large security project
 * Delivered over 2445 Center for Internet Security (CIS) controls using Chef InSpec for services ranging from Windows, RHEL, Solaris, AIX, Tomcat, Websphere
 * Wrote Chef code to remediate CIS controls in the existing environment
 
