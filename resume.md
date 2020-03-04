@@ -43,7 +43,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 #### AWS EC2 to Beanstalk migration | National digital marketplace for home services
 
-* Helped migrate the enterprise Ruby e-commerce web application from EC2 to Elastic Beanstalk using CloudFormation and a combination of ASG, ALB, Redis, Memcached, Aurora, and Redis services
+* Helped migrate the enterprise Ruby e-commerce web application from EC2 to Elastic Beanstalk using CloudFormation and a combination of ASG, ALB, Redis, Memcached, Aurora, and Elasticsearch services
 
 #### CIS assessment and automation | Fortune 100 insurance company
 
@@ -126,7 +126,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 ## Certifications
 
-* Red Hat Certified Systems Administrator
-* Microsoft Certified IT Professional (MCITP) – Enterprise Administrator 
-* CloudBees Jenkins Platform Engineer (CCJPE) 
 * AWS Certified Cloud Practitioner
+* Red Hat Certified Systems Administrator (RHCSA)
+* CloudBees Jenkins Platform Engineer (CCJPE) 
+* Microsoft Certified IT Professional (MCITP) – Enterprise Administrator 
