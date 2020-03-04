@@ -15,6 +15,8 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 ### Principal DevOps Engineer | Trace3 | June 2017 - Present
 
+Responsible for pre-sales, requirements gathering, solution architecture, implementation and handoff of cloud and DevOps projects for Trace3 customers.
+
 #### Noteworthy projects
 
 #### AWS Quickstart and Marketplace product placement | Fortune Cloud 100 DevOps company
