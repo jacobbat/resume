@@ -14,7 +14,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 ## Experience
 
-### Principle DevOps Engineer | Trace3 | 06/2016 - Present
+### Principal DevOps Engineer | Trace3 | 06/2017 - Present
 
 #### Noteworthy projects
 
@@ -24,7 +24,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 #### RedHat OpenShift All-in-One deployment in AWS | Fortune 10 technology company
 
-* Used CloudFormation to automate deployment of OpenShift 4.x and 3.x into AWS as an All-in-One architecture to support instructor led workshops
+* Used CloudFormation to automate deployment of OpenShift 4.x and 3.x into AWS as an All-in-One architecture to support instructor-led workshops
 
 #### Cisco device provisioning using Ansible Tower | National energy company
 
@@ -32,9 +32,9 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 #### Cloud Custodian implementation | Multibillion dollar FinTech company
 
-* Wrote a Python procedure to deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
+* Wrote a Python script to deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
 
-#### Rancher kubernetes hardening and automation | S&P 500 semiconductor manufacturer
+#### Rancher Kubernetes hardening and automation | S&P 500 semiconductor manufacturer
 
 * Created Rancher helm charts to help the client migrate 170+ applications from an internal PaaS to Kuberentes
 * Wrote a Python application to validate Rancher cluster configuration, conduct health checks, and ensure security compliance
@@ -47,7 +47,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 #### CIS assessment and automation | Fortune 100 insurance company
 
-* Lead a team of 4 engineers delivering the automation phase of a larger security project
+* Led a team of 4 engineers delivering the automation phase of a larger security project
 * Delivered over 2445 Center for Internet Security (CIS) controls using Chef InSpec for services ranging from Windows, RHEL, Solaris, AIX, Tomcat, Websphere
 * Wrote Chef code to remediate CIS controls in the existing environment
 
@@ -62,7 +62,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 ### Principal Cloud Services and Automation Engineer | AT&T | 07/2015 – 06/2017
 
-* Led the project to deploy a multi cloud platform for DIRECTV using Cisco Cloud Center, HP Operations Orchestration, Puppet, Jenkins and the Atlassian suite of products; the framework deployed compute to VMware, AWS, Rackspace and OpenStack
+* Led the project to deploy a multi cloud platform for AT&T using Cisco Cloud Center, HP Operations Orchestration, Puppet, Jenkins and the Atlassian suite of products; the framework deployed compute to VMware, AWS, Rackspace and OpenStack
 * Hired and led a team of DevOps engineers to provide infrastructure as a service, guide cloud migrations, and implement continuous delivery solutions for developer, QA and operations teams
 * Established agile practices through a grass root effort
 * Built a CI/CD pipeline for infrastructure code deployments using Jenkins, Bitbucket, Jira
@@ -82,7 +82,7 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 * Responsible for the uptime of large scale e-commerce systems including DIRECTV.com, retailer portal, intranet for CSRs, Cloudera Hadoop and an Apigee implementation
 * Worked to reduce toil through automation and better visibility into the complex systems
 * Developed and maintained dashboards (written in Java) to monitor and remediate WebLogic & Tomcat JVMs
-* Reduced meant time to repair e-commerce sites by implementing Application Performance Management (APM) tools starting with HP Diagnostics and upgrading to AppDynamics
+* Reduced mean time to repair e-commerce sites by implementing Application Performance Management (APM) tools starting with HP Diagnostics and upgrading to AppDynamics
 * Introduced first A/B deployments to the e-commerce sites
 * Implemented Akamai CDN for caching and DNS load balancing to relieve pressure from internal web servers
 * Partially responsible for the news-making 2013 DIRECTV.com NFL Sunday Ticket outage, the ensuing effort to stabilize the systems resulted in a 10x performance improvement and 99.99% uptime
@@ -108,16 +108,6 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 * Improved and vastly expanded company’s work-at-home program
 * Provided IT support to launch a newly renovated $600mil Waikiki Beach Walk Project in Honolulu, Hawaii
 
-### Tier III Technical Support | Time Warner Cable | 07/2006 – 11/2006
-
-* Last tier of escalation for complex connectivity issues to business ISP customers
-* Provisioned Arris, Zyxel and Cisco routers and VOIP modems
-
-### Systems/Network Administrator | Service Mortgage Corporation | 12/2002 – 07/2006
-
-* Responsible for server, network and desktop support for a 50 employee mortgage company
-* Part time engagement as a full time student at the University of Colorado at Denver
-
 ## Education
 
 **Bachelor of Science, Computer Science and Engineering** | University of Colorado at Denver
@@ -128,5 +118,5 @@ I am a cloud engineering consultant with experience leading the delivery of a wi
 
 * AWS Certified Cloud Practitioner
 * Red Hat Certified Systems Administrator (RHCSA)
-* CloudBees Jenkins Platform Engineer (CCJPE) 
-* Microsoft Certified IT Professional (MCITP) – Enterprise Administrator 
+* CloudBees Jenkins Platform Engineer (CCJPE)
+* Microsoft Certified IT Professional (MCITP) – Enterprise Administrator
