@@ -21,7 +21,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### AWS Quick Start and Marketplace product placement | Fortune Cloud 100 DevOps company
 
-* Created AWS Quick Start and Marketplace products for the client's repository manager solution running on EC2, ECS, and EKS services
+* Created infrastructure automation code and the associated AWS Quick Start and Marketplace products for the customer's CI/CD application to deploy on EC2, ECS, and EKS services
 
 #### RedHat OpenShift All-in-One deployment in AWS | Fortune 10 technology company
 
