@@ -19,9 +19,9 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### Notable projects and accomplishments
 
-#### AWS Quickstart and Marketplace product placement | Fortune Cloud 100 DevOps company
+#### AWS Quick Start and Marketplace product placement | Fortune Cloud 100 DevOps company
 
-* Created AWS Quickstart and Marketplace products for the client's repository manager solution running on EC2, ECS, and EKS services
+* Created AWS Quick Start and Marketplace products for the client's repository manager solution running on EC2, ECS, and EKS services
 
 #### RedHat OpenShift All-in-One deployment in AWS | Fortune 10 technology company
 
@@ -33,14 +33,14 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### Cloud Custodian implementation | Multibillion dollar FinTech company
 
-* Wrote a Python script to deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
+* Used Python and Boto 3 to deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
 
 #### Rancher Kubernetes hardening and automation | S&P 500 semiconductor manufacturer
 
 * Created Rancher helm charts to help the client migrate 170+ applications from an internal PaaS to Kuberentes
 * Wrote a Python application to validate Rancher cluster configuration, conduct health checks, and ensure security compliance
 * Deployed custom Validating and Mutating webhook APIs written in Python and using MTLS to govern the deployment of Service objects
-* Recorded and edited a 13 minute video to walk developers through the application migration process to Rancher Kubernetes
+*	Created a short video to walk developers through the application migration process to Rancher Kubernetes
 
 #### AWS EC2 to Beanstalk migration | National digital marketplace for home services
 
