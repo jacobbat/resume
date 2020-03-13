@@ -25,7 +25,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### RedHat OpenShift All-in-One deployment in AWS | Fortune 10 technology company
 
-* Used CloudFormation to automate deployment of OpenShift 4.x and 3.x into AWS as an All-in-One architecture to support instructor-led workshops
+* Used CloudFormation and Python running on Lambda to automate deployment of OpenShift 4.x and 3.x into AWS as an All-in-One architecture to support instructor-led workshops
 
 #### Cisco device provisioning using Ansible Tower | National energy company
 
