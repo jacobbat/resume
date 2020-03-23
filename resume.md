@@ -25,7 +25,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### RedHat OpenShift All-in-One deployment in AWS | Fortune 10 technology company
 
-* Used CloudFormation and Python running on Lambda to automate deployment of OpenShift 4.x and 3.x into AWS as an All-in-One architecture to support instructor-led workshops
+* Used CloudFormation and Python Lambda to automate deployment of OpenShift 4.x and 3.x clusters into AWS as an All-in-One architecture to support instructor-led workshops
 
 #### Cisco device provisioning using Ansible Tower | National energy company
 
@@ -33,7 +33,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 #### Cloud Custodian implementation | Multibillion dollar FinTech company
 
-* Used Python and Boto 3 to deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
+* Used Python and Boto 3 to help deploy Cloud Custodian into 150+ AWS accounts using a hub and spoke approach, with Lambda, SQS, SNS, and SES services
 
 #### Rancher Kubernetes hardening and automation | S&P 500 semiconductor manufacturer
 
@@ -80,7 +80,7 @@ Responsible for pre-sales, requirements gathering, solution architecture, implem
 
 ### Senior Application Support Engineer | DIRECTV, LLC | April 2012 – January 2014
 
-* Responsible for the uptime of large scale e-commerce systems including DIRECTV.com, retailer portal, intranet for CSRs, Cloudera Hadoop and an Apigee implementation
+* Responsible for the uptime of large-scale e-commerce systems including directv.com, retailer portal, intranet for CSRs, Cloudera Hadoop and an Apigee implementation
 * Worked to reduce toil through automation and better visibility into the complex systems
 * Developed and maintained dashboards (written in Java) to monitor and remediate WebLogic & Tomcat JVMs
 * Reduced mean time to repair e-commerce sites by implementing Application Performance Management (APM) tools starting with HP Diagnostics and upgrading to AppDynamics
